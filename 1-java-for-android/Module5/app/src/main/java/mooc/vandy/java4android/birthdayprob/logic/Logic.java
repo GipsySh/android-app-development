@@ -1,10 +1,6 @@
 package mooc.vandy.java4android.birthdayprob.logic;
 
-import java.util.HashMap;
-import java.util.IdentityHashMap;
-import java.util.List;
 import java.util.ArrayList;
-import java.util.Map;
 import java.util.Random;
 
 import mooc.vandy.java4android.birthdayprob.ui.OutputInterface;
@@ -78,16 +74,16 @@ public class Logic implements LogicInterface {
 
         // TODO -- I added my code here
 
-        Integer intBirthdayDate;       // single random generated birthday date
-        String strBirthdayDate; // single random generated birthday date a a String (for ArrayList)
-        double percent;         // final result (in percentages)
+        Integer intBirthdayDate;    // single random generated birthday date
+        String strBirthdayDate;     // single random generated birthday date a a String (for ArrayList)
+        double percent;             // final result (in percentages)
 
         int matchCount = 0;     // a number of matched birthday dates
 
         // loop for simulations count
         for (int i=1; i<=count; i++) {
 
-            Map<Integer,Integer> arrBirthday = new HashMap<Integer,Integer>(size);
+            ArrayList<Integer> arrBirthday = new ArrayList<>(size);
 
             Random date = new Random();
             date.setSeed(i);
@@ -98,8 +94,8 @@ public class Logic implements LogicInterface {
                 intBirthdayDate = date.nextInt(365);
 
                 // if there are no matched birthdays
-                if (!arrBirthday.containsValue(intBirthdayDate)) {
-                    arrBirthday.put(Integer.valueOf(j),intBirthdayDate);
+                if (!arrBirthday.contains(intBirthdayDate)) {
+                    arrBirthday.add(intBirthdayDate);
                 }
                 else {
                     matchCount++;       // increment the matched birthday
