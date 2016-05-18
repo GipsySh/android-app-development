@@ -1,0 +1,1 @@
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Java-for-Android\Module4\assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\diamonds\logic\Logic.class
