@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="947260180db9a840447426b2284287a1056cb155">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f000c8bb58ae7eee3fa91091b6062345b01dc737\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a21c4e0cdb806bba666818dad61b68a6b48e576f">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08edeae575e0f2e04805f8326b55ed4785f930bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_6d90bce966f064a8e685230c71910ff0dabb9a41\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_fe45ca54946a7cf7984f692360faee2a56524d20\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_3dd43bfd89a922c55a014727c8a662e220edd142\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_b7cbdfd08dbb40be36384b7fb223f77ddc516a79\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_6d5bc6d024f987869ff8b0ee9b115ba5d864be41\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_88096d574ebe04666990809c0dd156b3331cfdc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio3\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_639522f11a7689f6d8951b8b7f8bb48e56cc3dae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio3\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\_Android\android-app-development\1-java-for-android\Module5\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_c1df2ea5c81278424216570e62800100d18fb2d9\classes.dex" />
+    </item>
+
+</items>
