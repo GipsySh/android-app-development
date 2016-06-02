@@ -1,0 +1,2 @@
+CHANGED,D:\_Android\android-app-development\1-java-for-android\Module7\m7-assignment-buildings-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\mooc\vandy\java4android\buildings\logic\BuildingList$override.class
+CHANGED,D:\_Android\android-app-development\1-java-for-android\Module7\m7-assignment-buildings-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
