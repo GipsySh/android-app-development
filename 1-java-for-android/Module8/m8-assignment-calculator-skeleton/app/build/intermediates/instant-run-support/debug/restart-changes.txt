@@ -1,0 +1,6 @@
+CHANGED,D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\calculator\logic\Divide.class
+CHANGED,D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\calculator\logic\Subtract.class
+CHANGED,D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\calculator\logic\GeneralOperation.class
+CHANGED,D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\calculator\logic\Multiply.class
+CHANGED,D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\calculator\logic\Logic.class
+CHANGED,D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\calculator\logic\Add.class

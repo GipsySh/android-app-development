@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="212319171323650"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="374" />
+    <task
+        name="instant-run-dex"
+        duration="1151" />
+    <task
+        name="instant-run-transform"
+        duration="43" />
+    <task
+        name="verifier"
+        duration="99" />
+
+    <artifact
+        location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="209212223966340" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="210521036949681" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="210656750627031"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\builds\debug\210656750627031\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="210794695048740"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\builds\debug\210794695048740\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="210867075633170"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\builds\debug\210867075633170\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="210924759161953"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\builds\debug\210924759161953\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="210942407110598"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\builds\debug\210942407110598\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="212319171323650"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Module8\m8-assignment-calculator-skeleton\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
