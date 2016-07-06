@@ -1,0 +1,5 @@
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week2\Lab2_ActivityLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\activitylab\ActivityTwo$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week2\Lab2_ActivityLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\activitylab\ActivityTwo$1$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week2\Lab2_ActivityLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week2\Lab2_ActivityLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\activitylab\ActivityOne$1$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week2\Lab2_ActivityLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\activitylab\ActivityOne$override.class
