@@ -1,0 +1,2 @@
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3a_IntentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3a_IntentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\intentslab\ActivityLoaderActivity$override.class

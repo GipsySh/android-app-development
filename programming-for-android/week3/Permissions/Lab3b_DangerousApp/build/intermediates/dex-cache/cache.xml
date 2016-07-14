@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3b_DangerousApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ba02944fb3c71c8f8263ed06bbe7d04fd4a5b5f">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d225e3c24e3e9b48a022a52e709646d0f232d4ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_48aa493bf38bbc7b45725ab653f8f095ed1fe63a.jar" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3b_DangerousApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="84a4613cccc09b61d332d241aadc1a69ce06878a">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\instant-run_e6bfe71d5cf439156b44f64fa7b17a49599a91f1.jar" />
+    </item>
+
+</items>

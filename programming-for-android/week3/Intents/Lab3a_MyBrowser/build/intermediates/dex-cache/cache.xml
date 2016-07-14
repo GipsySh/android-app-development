@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3a_MyBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cc7c0feea959bf4b7c8aaf9ae3f3edabd1c4e0a">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3a_MyBrowser\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7b3cc19ab0775a4a9c7dcc50a7a6904570271ac5.jar" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3a_MyBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47bc36d5475d6c15803aa13e7545fe7db90c0332">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3a_MyBrowser\app\build\intermediates\pre-dexed\debug\instant-run_65a5c5c458639d83742bfbedaed9d07be06afa45.jar" />
+    </item>
+
+</items>
