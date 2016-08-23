@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3c_FragmentsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c6456e0b749a4477e7b21a985128bfd6f11aa1dd">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5225d58149770121dc4de485f3d54345e498ec3c\classes.dex" />
+    </item>
+    <item
+        jar="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3c_FragmentsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a282769a0659b2cbc82937bdb0c6c0fbd2299b9">
+        <dex dex="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0f06607cbef1d3fddd0c17bddadef0f414c1d48b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="737614013422783" >
+
+    <task
+        name="javac"
+        duration="251" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="86" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3c_FragmentsLabTestTablet\lab3c_FragmentsLab\build\outputs\apk\lab3c_FragmentsLab-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="737614013422783" >
+        <artifact
+            location="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week3\Lab3c_FragmentsLabTestTablet\lab3c_FragmentsLab\build\outputs\apk\lab3c_FragmentsLab-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
