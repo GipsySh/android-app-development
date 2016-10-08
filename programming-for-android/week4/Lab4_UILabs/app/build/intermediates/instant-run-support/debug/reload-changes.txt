@@ -1,0 +1,7 @@
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\R$string$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\ToDoListAdapter$1$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\ToDoListAdapter$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\R$id$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\R$layout$override.class
+CHANGED,D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\R$override.class

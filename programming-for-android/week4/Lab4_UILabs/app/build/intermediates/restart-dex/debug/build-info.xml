@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="222321981123742" >
+
+    <task
+        name="javac"
+        duration="335" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="187144991108879" >
+        <artifact
+            location="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="222232060582227"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="222321981123742" >
+        <artifact
+            location="D:\_MyDocs_Yulia\_Coursera\Programming-for-Android-AdamPorter\week4\Lab4_UILabs\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

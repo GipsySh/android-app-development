@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <CheckBox
+        android:id="@+id/statusCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp">
+    </CheckBox>
+
+    <TextView
+        android:id="@+id/titleView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/statusCheckBox"
+        android:layout_alignBaseline="@+id/statusCheckBox"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginLeft="10dp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/PriorityLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/titleView"
+        android:layout_below="@+id/titleView"
+        android:text="@string/priority_string"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="5dp"
+        android:textStyle="italic" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/priorityView"
+        android:layout_width="50dip"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/PriorityLabel"
+        android:layout_toRightOf="@+id/PriorityLabel"
+        android:textStyle="italic" >
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/dateView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignBaseline="@+id/PriorityLabel"
+        android:layout_marginRight="5dp"
+        android:textStyle="italic" >
+    </TextView>
+
+</RelativeLayout>
